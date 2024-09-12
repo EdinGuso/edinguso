@@ -47,7 +47,11 @@ I am a passionate AI Engineer with a proven track record of enhancing platform p
 ### 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edinguso&row=1&column=4&theme=transparent" alt="GitHub Trophies" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edinguso&theme=transparent" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinguso&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
