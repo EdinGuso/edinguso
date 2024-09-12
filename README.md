@@ -31,7 +31,7 @@ I am a passionate AI Engineer with a proven track record of enhancing platform p
 ---
 
 ### 🔑 Key Projects
-- [**GenAI Features**](https://github.com/EdinGuso/master-project) *@ Logmind*: Developed and optimized GenAI features to improve IT incident resolution.
+- [**Master Project**](https://github.com/EdinGuso/master-project) *@ Logmind*: Developed and optimized GenAI features to improve IT incident resolution.
 - [**ECOWCDB**](https://github.com/EdinGuso/ecowcdb) *@ EPFL*: Designed and implemented an algorithm for optimizing delay-bound calculations in time-sensitive networks.
 - [**Distributed Algorithms**](https://github.com/EdinGuso/CS451-Distributed-Algorithms) *@ EPFL*: Achieved high message throughput while implementing reliable broadcast algorithms in Java.
 - [**Concurrent Algorithms**](https://github.com/EdinGuso/CS453-Concurrent-Algorithms) *@ EPFL*: Enhanced software transactional memory performance using the TL2 algorithm in C.
